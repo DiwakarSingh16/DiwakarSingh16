@@ -12,9 +12,14 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vHrr2u8x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diwakar-singh-328981293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ds6918821@gmail.com) 
 
-### 🚀 My Developer Vibe:
 
-[![Dev Banner](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)](https://github.com/DiwakarSingh16)
+<h3 align="center">🚀 My Developer Vibe</h3>
+
+<p align="center">
+  <a href="https://github.com/DiwakarSingh16">
+    <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="600" alt="Dev Banner"/>
+  </a>
+</p>
 
 ---
 # 💻 Tech Stack:
