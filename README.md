@@ -1,3 +1,10 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/DiwakarSingh16)
+
+<h1 align="center">Hi 👋, I'm Diwakar Singh</h1>
+<h3 align="center">Real-World Problem Solver • AI Explorer • Lifelong Learner</h3>
+
+---
+
 # 💫 About Me:
 🛠 I’m currently working on<br>Exploring applications of deep learning and computer vision in behavioral analysis, detection systems, and scientific research.<br><br>🤝 I’m looking to collaborate on<br>Innovative AI solutions, interdisciplinary research, and any projects that push the boundaries of machine learning and data science.<br><br>🧠 I’m looking for help with<br>Optimizing deep learning models for real-time performance and improving results on limited or complex datasets.<br><br>🌱 I’m currently learning<br>Advanced techniques in neural networks, tracking algorithms, and model deployment for real-world scenarios.<br><br>💬 Ask me about<br>Deep learning workflows, computer vision pipelines, annotation strategies, and training custom models from scratch.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into practical AI solutions—and yes, I can probably explain what YOLO means without talking about Drake.
 
